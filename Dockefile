@@ -1,0 +1,2 @@
+FROM whanos-c
+EXPOSE 3000
